@@ -1,11 +1,7 @@
 .signup {
-  height: 700px;
-}
-
-.logo {
-  margin-top: 30px;
-  width: 30%;
-  height: auto;
+  margin-top: 300px; /* just for visual remove later */
+  font-family: 'Comfortaa';
+  margin-bottom: 200px; /* just for visual remove later */
 }
 
 .contact {
@@ -24,7 +20,7 @@ input[type=text], select, textarea {
   margin-top: 5px; /* Add a top margin */
   margin-bottom: 5px; /* Bottom margin */
   resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
-  font-family: 'Karla', sans-serif;
+  font-family: 'Comfortaa';
   font-size: medium;
   background-color: #FFFFFF;
 }
@@ -37,7 +33,7 @@ input[type=submit] {
   border: none;
   border-radius: 2px;
   cursor: pointer;
-  font-family: 'Karla', sans-serif;
+  font-family: 'Comfortaa';
   font-size: medium;
 }
 
