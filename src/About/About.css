@@ -1,0 +1,15 @@
+.about {
+  font-family: 'Comfortaa';
+}
+
+.logo {
+  margin-top: 200px;
+  width: 30%;
+  height: auto;
+}
+
+.about-text {
+  margin-top: 70px;
+  text-align: justify;
+  padding: 10px;
+}
